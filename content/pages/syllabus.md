@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 86a0cec7-c192-0c4b-bd1e-0c858f71ee63
 ---
@@ -81,7 +83,7 @@ Problem Sets
 Special Relativity
 ------------------
 
-In the "old" days I began this course with a unit on special relativity, which consisted of two sets of lecture notes and about four lectures. However, with the advent of Relativity (8.033) this seemed a bit redundant, so in 1996 I dropped relativity from the syllabus. Special relativity is not, however, a prerequisite for this course. There will be a few more results from special relativity that will be needed as the course progresses (E = mc2, for example), and I will try to point them out and summarize them carefully as we go along.
+In the "old" days I began this course with a unit on special relativity, which consisted of two sets of lecture notes and about four lectures. However, with the advent of Relativity (8.033) this seemed a bit redundant, so in 1996 I dropped relativity from the syllabus. Special relativity is not, however, a prerequisite for this course. There will be a few more results from special relativity that will be needed as the course progresses (E = mc{{< sup "2" >}}, for example), and I will try to point them out and summarize them carefully as we go along.
 
 Course Outline
 --------------

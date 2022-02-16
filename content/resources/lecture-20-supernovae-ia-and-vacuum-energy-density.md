@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Lecture 20 (PDF)](resources/mit8_286f13_lec20)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Supernovae Ia and Vacuum Energy Density'
 uid: 82fd0198-e216-1a38-2b1a-0e190b953020
 video_files:
   archive_url: http://www.archive.org/download/MIT8.286F13/MIT8_286F13_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-286-the-early-universe-fall-2013/d5c98dcc188559de925807570251a1f5_RgScJ20EnW8.vtt
+  video_captions_file: /courses/8-286-the-early-universe-fall-2013/d5c98dcc188559de925807570251a1f5_RgScJ20EnW8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/RgScJ20EnW8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-286-the-early-universe-fall-2013/02cf009d0b92e400bc2ef271443c465f_RgScJ20EnW8.pdf
+  video_transcript_file: /courses/8-286-the-early-universe-fall-2013/02cf009d0b92e400bc2ef271443c465f_RgScJ20EnW8.pdf
 video_metadata:
   youtube_id: RgScJ20EnW8
 ---

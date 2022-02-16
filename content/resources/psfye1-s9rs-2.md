@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-286-the-early-universe-fall-2013/15a0453c60ff5296835d620010ed06d5_PsfyE1-s9Rs.vtt
+file: /media/courses/8-286-the-early-universe-fall-2013/15a0453c60ff5296835d620010ed06d5_PsfyE1-s9Rs.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 15a0453c-60ff-5296-835d-620010ed06d5

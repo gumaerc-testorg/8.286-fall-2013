@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-286-the-early-universe-fall-2013/b891ffb6658f5fbd1f93b3183315ac26_U_Ot1PTuUv4.pdf
+file: /media/courses/8-286-the-early-universe-fall-2013/b891ffb6658f5fbd1f93b3183315ac26_U_Ot1PTuUv4.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: b891ffb6-658f-5fbd-1f93-b3183315ac26
