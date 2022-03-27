@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Cosmological Redshift and the Dynamics of Homogeneous Expansion,
   Part I'
 uid: 22b7763b-4cb8-831d-250f-72da00b96ea1

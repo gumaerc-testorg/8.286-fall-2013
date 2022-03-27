@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Problems of the Conventional (Non-inflationary) Hot Big Bang Model'
 uid: 9d463f83-1ac3-a45e-51c9-4e78914202ad
 video_files:

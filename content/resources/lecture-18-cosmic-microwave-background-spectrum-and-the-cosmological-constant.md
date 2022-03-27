@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Cosmic Microwave Background Spectrum and the Cosmological Constant,
   Part I'
 uid: 3f74b441-4bb5-3eff-a93b-37a40ce0e43c

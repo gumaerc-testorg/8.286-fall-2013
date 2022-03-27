@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 063483c8-ca5e-eab4-5744-84c18aaf4ae7
 resourcetype: Document
 title: The Early Universe, Solution 2
 uid: 41a94253-2d52-b465-b0cd-5634d93635d7

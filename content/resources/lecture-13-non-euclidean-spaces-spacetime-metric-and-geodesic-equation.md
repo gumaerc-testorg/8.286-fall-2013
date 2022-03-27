@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Non-Euclidean Spaces: Spacetime Metric and Geodesic Equation'
 uid: 54e850b4-13f1-0f48-f0c6-a6e1205381a9
 video_files:

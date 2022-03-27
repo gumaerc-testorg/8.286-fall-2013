@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 063483c8-ca5e-eab4-5744-84c18aaf4ae7
 resourcetype: Document
 title: The Early Universe, Review Problems 3
 uid: b5efb8ea-692f-a31d-ec3e-3263f97b2296

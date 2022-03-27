@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: The Kinematics of the Homogeneous Expanding Universe'
 uid: 9ddcdbcb-5b4f-b472-ec66-82a08a44b6bd
 video_files:

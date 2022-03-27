@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: The Higgs Field and the Cosmological Magnetic Monopole Problem'
 uid: e0c14883-9864-336b-3b7f-7ce3d30fc167
 video_files:
