@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 23 (PDF)](resources/mit8_286f13_lec23)'
+optional_text: '[Lecture 23 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec23)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor discussed the mechanism of inflation, original inflatinary model, and new inflatinary scenario.
 
 **Instructor:** Alan Guth
+
+
+

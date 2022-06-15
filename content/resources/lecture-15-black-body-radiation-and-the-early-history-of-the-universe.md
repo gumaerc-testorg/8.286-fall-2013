@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 15 (PDF)](resources/mit8_286f13_lec15)'
+optional_text: '[Lecture 15 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec15)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed the spacetime geodesic equation; talked about the Schwarzschild metric and radial geodesics; and solved the radial infall equation.
 
 **Instructor:** Alan Guth
+
+
+

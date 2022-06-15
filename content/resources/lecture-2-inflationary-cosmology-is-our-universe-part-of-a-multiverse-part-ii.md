@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 2 (PDF)](resources/mit8_286f13_lec02)'
+optional_text: '[Lecture 2 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec02)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor summarized the standard Big Bang, cosmic inflation, evidence for inflation, inflation and multiverse, nightmare of dark energy. He also talked about the landscape and environmental selection, anthropic arguments, anthropic explanation, etc.
 
 **Instructor:** Alan Guth
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  required and recommended textbooks, other readings, grading, the course outline,
+  homework policy, and a note on special relativity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +42,7 @@ Weinberg's book has been required reading for this course since the first time i
 
 For the first part of the course (classical cosmology), the lectures and the associated lecture notes\* will describe the subject at a level of detail that is much more mathematical than Weinberg's book, and a little beyond the level of Ryden's book. For the second part of the course (modern particle physics and its recent impact on cosmology), we will rely mostly on the lecture notes, although Ryden does have a good chapter on inflation. You will also be asked to read several articles from _[Scientific American](http://www.scientificamerican.com/magazine/sa/)_ or similar publications.
 
-(\* Prof. Guth's lecture notes are not available to OCW users, but his [lecture slides]({{< baseurl >}}/pages/lecture-slides) are. Please see extensive review notes in the [exams]({{< baseurl >}}/pages/exams) section.)
+(\* Prof. Guth's lecture notes are not available to OCW users, but his {{% resource_link 2ef9a3cc-0fcc-09de-bdab-80d890fad87d "lecture slides" %}} are. Please see extensive review notes in the {{% resource_link 063483c8-ca5e-eab4-5744-84c18aaf4ae7 "exams" %}} section.)
 
 Grading
 -------

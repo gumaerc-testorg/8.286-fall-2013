@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-286-the-early-universe-fall-2013/694c043db5df573d97f30404553c4235_tJ2AJJMcQXs.vtt
+file: /courses/8-286-the-early-universe-fall-2013/694c043db5df573d97f30404553c4235_tJ2AJJMcQXs.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

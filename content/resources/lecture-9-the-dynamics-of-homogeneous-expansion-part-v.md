@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 9 (PDF)](resources/mit8_286f13_lec09)'
+optional_text: '[Lecture 9 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec09)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the dynamics of homogeneous expansion; summarized age of a flat matter-dominated universe, Big Bang singularity, and evolution of a closed universe.
 
 **Instructor:** Alan Guth
+
+
+

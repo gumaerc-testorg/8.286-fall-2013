@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 5 (PDF)](resources/mit8_286f13_lec05)'
+optional_text: '[Lecture 5 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec05)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor quickly reviewed the homogeneous expanding universe, then discussed cosmological redshift and the dynamics of homogeneous expansion.
 
 **Instructor:** Alan Guth
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-286-the-early-universe-fall-2013/a3f3a576e9792f0e1b9676cc30b52619_moyD_yeviMY.pdf
+file: /courses/8-286-the-early-universe-fall-2013/a3f3a576e9792f0e1b9676cc30b52619_moyD_yeviMY.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

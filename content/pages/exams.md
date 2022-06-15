@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides review problems with solutions, quizzes, and quiz
+  solutions.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -33,13 +35,13 @@ QUIZ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Review Problems 1 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q1review)
+{{% resource_link 16163bd7-e7d3-17ed-e49c-779b99ca9f23 "Review Problems 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 1 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q1)
+{{% resource_link de5b2a93-4146-8b4f-ada6-8e0f22b10294 "Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 1 Solutions (PDF)]({{< baseurl >}}/resources/mit8_286f13_q1sols)
+{{% resource_link 5ec4ebf9-9136-15ad-bfa3-b96177262263 "Quiz 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,13 +50,13 @@ QUIZ SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Review Problems 2 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q2review)
+{{% resource_link fda6167f-fbce-ff35-ad34-6026f920ae77 "Review Problems 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 2 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q2)
+{{% resource_link f1795c30-de09-6a0d-6c0a-cb48ad72f6d6 "Quiz 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_286f13_q2sols)
+{{% resource_link 41a94253-2d52-b465-b0cd-5634d93635d7 "Quiz 2 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,13 +65,13 @@ QUIZ SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Review Problems 3 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q3review)
+{{% resource_link b5efb8ea-692f-a31d-ec3e-3263f97b2296 "Review Problems 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 3 (PDF)]({{< baseurl >}}/resources/mit8_286f13_q3)
+{{% resource_link 81e85782-9112-cea0-f9e2-3411b96b60fa "Quiz 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Quiz 3 Solutions (PDF)]({{< baseurl >}}/resources/mit8_286f13_q3sols)
+{{% resource_link 1357200b-fced-33de-acc1-a7e21d4b4875 "Quiz 3 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

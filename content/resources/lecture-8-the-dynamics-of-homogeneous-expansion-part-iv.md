@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 8 (PDF)](resources/mit8_286f13_lec08)'
+optional_text: '[Lecture 8 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec08)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Instructor:** Alan Guth
 
 **Erratum**: On slide 6 (at 17:25 minutes), the equation "a^(1/2) a da = const dt" should read "a^(1/2) da = const dt"
+
+
+

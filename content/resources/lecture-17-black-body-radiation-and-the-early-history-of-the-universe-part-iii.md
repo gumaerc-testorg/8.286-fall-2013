@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 17 (PDF)](resources/mit8_286f13_lec17)'
+optional_text: '[Lecture 17 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec17)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed dynamics of a flat radiation-dominated universe and continued to talk about black-body radiation and the early history of the universe.
 
 **Instructor:** Alan Guth
+
+
+

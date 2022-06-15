@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 1 (PDF)](resources/mit8_286f13_lec01)'
+optional_text: '[Lecture 1 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec01)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** In this lecture, the professor talked about the standard Big Bang, cosmic inflation, evidence for inflation, Cosmic Microwave Background (CMB), universe to multiverse, dark energy, etc.
 
 **Instructor:** Alan Guth
+
+
+

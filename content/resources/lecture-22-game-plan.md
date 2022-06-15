@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: There are no Lecture Slides for this lecture.
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Professor Hughes reviewed symmetries of gauge theories in standard model, the Higgs field and the cosmological magnetic monopole problem.
 
 **Instructor:** Scott Hughes
+
+
+

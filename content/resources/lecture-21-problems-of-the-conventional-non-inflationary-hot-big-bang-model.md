@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Lecture 21 (PDF)](resources/mit8_286f13_lec21)'
+optional_text: '[Lecture 21 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec21)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, the professor first reviewed supernovae ia and vacuum energy density, then talked about problems of the conventional (non-inflationary) hot big bang model.
 
 **Instructor:** Alan Guth
+
+
+
