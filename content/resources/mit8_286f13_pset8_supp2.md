@@ -5,6 +5,7 @@ file: /courses/8-286-the-early-universe-fall-2013/41c5877342f4a4e6fa5d19328ecaf6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Early Universe, Assignment 8
 uid: 41c58773-42f4-a4e6-fa5d-19328ecaf616
 ---
 This resource contains information regarding assignment 8.
-

@@ -5,6 +5,7 @@ file: /courses/8-286-the-early-universe-fall-2013/41a942532d52b465b0cd5634d93635
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Early Universe, Solution 2
 uid: 41a94253-2d52-b465-b0cd-5634d93635d7
 ---
 This file contains information regarding solution 2.
-

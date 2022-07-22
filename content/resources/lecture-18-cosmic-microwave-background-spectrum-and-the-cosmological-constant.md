@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 18 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec18)'
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** In this lecture, the professor continued to talk about the black-body radiation, then talked about cosmic microwave background spectrum and the cosmological constant.
 
 **Instructor:** Alan Guth
-
-
 

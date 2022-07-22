@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-286-the-early-universe-fall-2013/ee71a9a2a51c5ec49830b1a743c73d4f_wuPEmfon9lg.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "[Lecture 19 (PDF)  \n](resources/mit8_286f13_lec19)"
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor reviewed gravitational effect of pressure and talked about age of universe and the cosmological constant, etc.
 
 **Instructor:** Alan Guth
-
-
 

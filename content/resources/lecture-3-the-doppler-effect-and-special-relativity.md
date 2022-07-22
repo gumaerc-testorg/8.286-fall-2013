@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 3 (PDF)](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec03)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, the professor discussed the doppler effect, time dilation, Lorentz-Fitzgerald contraction and relativity of simultaneity.
 
 **Instructor:** Alan Guth
-
-
 
