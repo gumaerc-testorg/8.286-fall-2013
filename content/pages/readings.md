@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of required textbooks, recommended books,
+  and more advanced readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f119c4a4-4d80-6d78-f340-e61786952320
 ---
