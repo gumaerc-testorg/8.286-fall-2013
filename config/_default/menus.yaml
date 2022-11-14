@@ -11,23 +11,19 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
-- identifier: 7c0429b6-dd42-da8d-013d-914b3036b33a
-  name: Instructor Insights
-  url: /pages/instructor-insights
-  weight: 40
 - identifier: 2ef9a3cc-0fcc-09de-bdab-80d890fad87d
   name: Lecture Slides
   url: /pages/lecture-slides
-  weight: 50
+  weight: 40
 - identifier: bb1b15e7-9a4f-89bd-a726-392698e4208c
   name: Video Lectures
   url: /video_galleries/video-lectures
-  weight: 60
+  weight: 50
 - identifier: ffd3ae41-e2e5-258b-659e-16bc1fe96c0c
   name: Assignments
   url: /pages/assignments
-  weight: 70
+  weight: 60
 - identifier: 063483c8-ca5e-eab4-5744-84c18aaf4ae7
   name: Exams
   url: /pages/exams
-  weight: 80
+  weight: 70
