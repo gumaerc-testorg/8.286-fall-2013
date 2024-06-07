@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-286-the-early-universe-fall-2013/7973c238a01f5fe983f28ba715c4d984_6b83DypBeYg.vtt
+file_size: 107344
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

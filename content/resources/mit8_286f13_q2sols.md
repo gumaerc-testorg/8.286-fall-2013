@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding solution 2.
 file: /courses/8-286-the-early-universe-fall-2013/41a942532d52b465b0cd5634d93635d7_MIT8_286F13_q2sols.pdf
+file_size: 130510
 file_type: application/pdf
 learning_resource_types:
 - Exams
