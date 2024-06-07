@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '157471974'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: "[Lecture 19 (PDF)  \n](resources/mit8_286f13_lec19)"
+optional_text: "[Lecture 19 (PDF)  \n](/courses/8-286-the-early-universe-fall-2013/resources/mit8_286f13_lec19)"
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -25,8 +26,6 @@ video_files:
 video_metadata:
   youtube_id: U_Ot1PTuUv4
 ---
-
 **Description:** In this lecture, the professor reviewed gravitational effect of pressure and talked about age of universe and the cosmological constant, etc.
 
 **Instructor:** Alan Guth
-
