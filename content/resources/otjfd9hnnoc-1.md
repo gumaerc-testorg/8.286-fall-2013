@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-286-the-early-universe-fall-2013/58ae3113f8c0144438b1ad474ed34a7b_OtJFD9HNnoc.pdf
+file: /ol-ocw-studio-app/courses/8-286-the-early-universe-fall-2013/58ae3113f8c0144438b1ad474ed34a7b_OtJFD9HNnoc.pdf
 file_size: 101296
 file_type: application/pdf
 learning_resource_types: []
