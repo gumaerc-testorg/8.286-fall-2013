@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding assignment 8.
-file: /ol-ocw-studio-app/courses/8-286-the-early-universe-fall-2013/41c5877342f4a4e6fa5d19328ecaf616_MIT8_286F13_PSet8_supp2.pdf
+file: /courses/8-286-the-early-universe-fall-2013/41c5877342f4a4e6fa5d19328ecaf616_MIT8_286F13_PSet8_supp2.pdf
 file_size: 544550
 file_type: application/pdf
 learning_resource_types:
