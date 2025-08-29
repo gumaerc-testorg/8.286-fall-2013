@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-286-the-early-universe-fall-2013/1099bf5cfde65131b48e96359f617297_MKPswx4hjec.vtt
+file: /ol-ocw-studio-app/courses/8-286-the-early-universe-fall-2013/1099bf5cfde65131b48e96359f617297_MKPswx4hjec.vtt
 file_size: 91441
 file_type: application/x-subrip
 learning_resource_types: []
