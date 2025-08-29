@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding The Early Universe, Review Problems
   1.
-file: /courses/8-286-the-early-universe-fall-2013/16163bd7e7d317ede49c779b99ca9f23_MIT8_286F13_q1review.pdf
+file: /ol-ocw-studio-app/courses/8-286-the-early-universe-fall-2013/16163bd7e7d317ede49c779b99ca9f23_MIT8_286F13_q1review.pdf
 file_size: 986045
 file_type: application/pdf
 learning_resource_types:
