@@ -29,7 +29,7 @@ Weinberg, Steven. _The First Three Minutes: A Modern View of the Origin of the U
 Recommended Books
 -----------------
 
-Liddle, Andrew. _An Introduction to Modern Cosmology_. 2nd ed. Wiley, 2003. ISBN: 9780470848357. \[Preview with [Google Books](http://books.google.com/books?id=t-nbsrjMWK8C&pg=PAfrontcover)\]
+Liddle, Andrew. _An Introduction to Modern Cosmology_. 2nd ed. Wiley, 2003. ISBN: 9780470848357. \[Preview with {{% resource_link "382568ca-19e4-4ff5-b1c8-602706e4f0d6" "Google Books" %}}\]
 
 Guth, Alan H. _The Inflationary Universe_. Basic Books, 1998. ISBN: 9780201328400.
 
@@ -40,7 +40,7 @@ There is no textbook that I know of that is really appropriate for the intended 
 
 Weinberg's book has been required reading for this course since the first time it was taught, in 1986. Before 2000 I used Joseph Silk's _The Big Bang_ as a second required book in this course, and in 2000 and 2002 we used Rowan-Robinson's _Cosmology_ instead. We used Barbara Ryden's book for the first time in 2004, and I have been using it since.
 
-For the first part of the course (classical cosmology), the lectures and the associated lecture notes\* will describe the subject at a level of detail that is much more mathematical than Weinberg's book, and a little beyond the level of Ryden's book. For the second part of the course (modern particle physics and its recent impact on cosmology), we will rely mostly on the lecture notes, although Ryden does have a good chapter on inflation. You will also be asked to read several articles from _[Scientific American](http://www.scientificamerican.com/magazine/sa/)_ or similar publications.
+For the first part of the course (classical cosmology), the lectures and the associated lecture notes\* will describe the subject at a level of detail that is much more mathematical than Weinberg's book, and a little beyond the level of Ryden's book. For the second part of the course (modern particle physics and its recent impact on cosmology), we will rely mostly on the lecture notes, although Ryden does have a good chapter on inflation. You will also be asked to read several articles from _{{% resource_link "1131522d-18b3-4041-b6fd-0c5d03b3668e" "Scientific American" %}}_ or similar publications.
 
 (\* Prof. Guth's lecture notes are not available to OCW users, but his {{% resource_link 2ef9a3cc-0fcc-09de-bdab-80d890fad87d "lecture slides" %}} are. Please see extensive review notes in the {{% resource_link 063483c8-ca5e-eab4-5744-84c18aaf4ae7 "exams" %}} section.)
 
