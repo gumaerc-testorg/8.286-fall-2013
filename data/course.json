@@ -29,7 +29,7 @@
   },
   "course_title": "The Early Universe",
   "hide_download": false,
-  "course_description": "The Early Universe provides an introduction to modern cosmology. The first part of the course deals with the classical cosmology, and later part with modern particle physics and its recent impact on cosmology.\n\nIn the News\n-----------\n\nFor more about Professor Guth's work, [listen to this interview](http://www.wbur.org/2015/02/26/visionaries-alan-guth-mit) from WBUR, Boston's National Public Radio news station.\n\nYou may also be interested in this MIT Alumni Association Podcast [Inflationary Cosmology\u2014Is Our Universe Part of a Multiverse?](https://alum.mit.edu/slice/podcast-inflationary-cosmology-our-universe-part-multiverse) with Professor Guth.\n",
+  "course_description": "The Early Universe provides an introduction to modern cosmology. The first part of the course deals with the classical cosmology, and later part with modern particle physics and its recent impact on cosmology.\n\nIn the News\n-----------\n\nFor more about Professor Guth's work, {{% resource_link \"b6de6f2b-2369-49db-9bba-94eaea8d8112\" \"listen to this interview\" %}} from WBUR, Boston's National Public Radio news station.\n\nYou may also be interested in this MIT Alumni Association Podcast {{% resource_link \"0d0421fe-ccd6-4e5f-9b56-152d758caebc\" \"Inflationary Cosmology\u2014Is Our Universe Part of a Multiverse?\" %}} with Professor Guth.\n",
   "department_numbers": [
     "8"
   ],
